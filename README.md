@@ -1,1 +1,1 @@
-# growlabcafe
+# GrowLab.cafe
